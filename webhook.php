@@ -1,5 +1,5 @@
 <?php
-
+//execute this file to set webhook of your bot
 const TOKEN = '';
 
 const URL = 'https://api.telegram.org/bot'. TOKEN .'/setWebhook';
